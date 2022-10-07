@@ -2,8 +2,8 @@ site_name: CASVA50 Team Documentation
 
 nav:
     - Home: index.md
-    - Line detection: line_detection.md
-    - Traffic sign: traffic_sign.md
+    - 'Line detection': line_detection.md
+    - 'Traffic sign': traffic_sign.md
 
 theme:
   name: material
