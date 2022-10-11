@@ -4,6 +4,7 @@ nav:
     - Home: index.md
     - 'Line detection': line_detection.md
     - 'Traffic sign': traffic_signs.md
+    - 'How to write documentation' : howtowritedoc.md
 
 theme:
   name: material
